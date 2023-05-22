@@ -17,7 +17,7 @@ html {
   font-family: "Barlow Semi Condensed", sans-serif;
 }
 body {
-  background-color: var(--ligh-gray);
+  background-color: var(--light-grayish-blue);
   display: grid;
   place-items: center;
   height: 100vh;
