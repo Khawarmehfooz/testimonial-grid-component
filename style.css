@@ -81,7 +81,7 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  display: absolute;
+  position: absolute;
   bottom: 0;
 }
 .attribution a {
@@ -98,5 +98,10 @@ body {
     grid-column-start: 4;
     grid-row-start: 1;
     grid-row-end: span 2;
+  }
+}
+@media (max-width: 1000px) {
+  .attribution {
+    position: relative;
   }
 }
