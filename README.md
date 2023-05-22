@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/output.png)
+![output](./screenshots/output.png)
 
 ### Links
 
